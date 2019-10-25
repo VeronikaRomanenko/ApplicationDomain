@@ -1,0 +1,9 @@
+D:\Романенко Вероника\WindowsFormsApp3\TextDrawer\bin\Debug\TextDrawer.exe.config
+D:\Романенко Вероника\WindowsFormsApp3\TextDrawer\bin\Debug\TextDrawer.exe
+D:\Романенко Вероника\WindowsFormsApp3\TextDrawer\bin\Debug\TextDrawer.pdb
+D:\Романенко Вероника\WindowsFormsApp3\TextDrawer\obj\Debug\TextDrawer.csprojResolveAssemblyReference.cache
+D:\Романенко Вероника\WindowsFormsApp3\TextDrawer\obj\Debug\TextDrawer.Form1.resources
+D:\Романенко Вероника\WindowsFormsApp3\TextDrawer\obj\Debug\TextDrawer.Properties.Resources.resources
+D:\Романенко Вероника\WindowsFormsApp3\TextDrawer\obj\Debug\TextDrawer.csproj.GenerateResource.Cache
+D:\Романенко Вероника\WindowsFormsApp3\TextDrawer\obj\Debug\TextDrawer.exe
+D:\Романенко Вероника\WindowsFormsApp3\TextDrawer\obj\Debug\TextDrawer.pdb

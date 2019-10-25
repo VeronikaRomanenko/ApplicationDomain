@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "WindowsFormsApp3\WindowsFormsApp3.csproj", "{760AB0D9-3FA0-4D58-A833-7A8BA14E070A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWindow", "TextWindow\TextWindow.csproj", "{A87E42D5-FB94-4166-AEE2-0C8B0C8CC096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDrawer", "TextDrawer\TextDrawer.csproj", "{2F1AE9C4-4CE1-4EFD-90A8-BB88DC6CD40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{760AB0D9-3FA0-4D58-A833-7A8BA14E070A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760AB0D9-3FA0-4D58-A833-7A8BA14E070A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760AB0D9-3FA0-4D58-A833-7A8BA14E070A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760AB0D9-3FA0-4D58-A833-7A8BA14E070A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87E42D5-FB94-4166-AEE2-0C8B0C8CC096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87E42D5-FB94-4166-AEE2-0C8B0C8CC096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87E42D5-FB94-4166-AEE2-0C8B0C8CC096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87E42D5-FB94-4166-AEE2-0C8B0C8CC096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1AE9C4-4CE1-4EFD-90A8-BB88DC6CD40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1AE9C4-4CE1-4EFD-90A8-BB88DC6CD40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1AE9C4-4CE1-4EFD-90A8-BB88DC6CD40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1AE9C4-4CE1-4EFD-90A8-BB88DC6CD40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

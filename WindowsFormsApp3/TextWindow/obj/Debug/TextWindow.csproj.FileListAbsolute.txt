@@ -1,0 +1,8 @@
+D:\Романенко Вероника\WindowsFormsApp3\TextWindow\bin\Debug\TextWindow.exe.config
+D:\Романенко Вероника\WindowsFormsApp3\TextWindow\bin\Debug\TextWindow.exe
+D:\Романенко Вероника\WindowsFormsApp3\TextWindow\bin\Debug\TextWindow.pdb
+D:\Романенко Вероника\WindowsFormsApp3\TextWindow\obj\Debug\TextWindow.Form1.resources
+D:\Романенко Вероника\WindowsFormsApp3\TextWindow\obj\Debug\TextWindow.Properties.Resources.resources
+D:\Романенко Вероника\WindowsFormsApp3\TextWindow\obj\Debug\TextWindow.csproj.GenerateResource.Cache
+D:\Романенко Вероника\WindowsFormsApp3\TextWindow\obj\Debug\TextWindow.exe
+D:\Романенко Вероника\WindowsFormsApp3\TextWindow\obj\Debug\TextWindow.pdb
